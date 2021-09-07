@@ -23,7 +23,7 @@
 
 # :camera: Screenshots
 <div align="center">
-   <img src=".github/WatchMe.mp4">
+   <img src=".github/WatchMe.png">
 </div>
 
 # :rocket: Technologies
